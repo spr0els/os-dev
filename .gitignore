@@ -1,0 +1,6 @@
+*.tar.*
+*.bin
+*.o
+00-cross-compiler/binutils-*
+00-cross-compiler/gdb-*
+00-cross-compiler/gcc-*
